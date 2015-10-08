@@ -1,0 +1,27 @@
+* {
+    -webkit-box-sizing: initial;
+    -moz-box-sizing: initial;
+    box-sizing: initial;
+}
+
+/*Gallery*/
+.gallery-thumb-link {
+  height: 200px;
+  width: 30%;
+  overflow: hidden;
+}
+
+.gallery-row {
+  margin-top: 30px;
+}
+
+
+/*Contact*/
+#contact .name {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+#contact .phone {
+  font-size: 40px;
+}
