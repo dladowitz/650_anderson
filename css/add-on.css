@@ -4,6 +4,9 @@
     box-sizing: initial;
 }
 
+#siteTitle a{
+  text-transform: none;
+}
 
 /*Property */
 .home-icons-row {
