@@ -4,14 +4,14 @@
     box-sizing: initial;
 }
 
-#siteTitle a{
-  text-transform: none;
-}
 
 /*Property */
+.property-title {
+  text-transform: uppercase;
+}
+
 .home-icons-row {
   margin: 20px 0 50px 0px;
-
 }
 
 .home-icon {
