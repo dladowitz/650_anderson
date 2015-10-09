@@ -4,6 +4,19 @@
     box-sizing: initial;
 }
 
+
+/*Property */
+.home-icons-row {
+  margin: 137px 0 50px 75px;
+
+}
+
+.home-icon {
+  font-size: 75px;
+  color: #242D2E;
+}
+
+
 /*Gallery*/
 .gallery-thumb-link {
   height: 200px;
@@ -23,6 +36,10 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+}
+
+.schedule-header {
+  margin-top: 75px !important;
 }
 
 
